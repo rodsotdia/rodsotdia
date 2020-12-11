@@ -1,4 +1,4 @@
-![image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rodsotdia&show-other-skills=true&skills=JavaScript,HTML,CSS,PHP,SCSS,JSON,Vue)
+[![image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rodsotdia&show-other-skills=true&skills=JavaScript,HTML,CSS,PHP,SCSS,JSON,Vue)](https://profile.codersrank.io/user/rodsotdia)
 
 <!--### Hi there 👋-->
 <!--
