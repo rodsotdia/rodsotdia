@@ -1,6 +1,5 @@
 ✦ Creative Web Developer \
-✦ Digital Designer \
-✦ Visual Crafter
+✦ Visual Artist
 
 > Senior Fullstack Developer with over a decade of experience working at the intersection of design and web development, bridging creativity and code to craft scalable and design-centric web applications, with a pragmatic vision and strong focus on maintainability and user experience. Always curious and keen to explore new technologies, workflows, and best practices to deliver thoughtful digital solutions.
 >
