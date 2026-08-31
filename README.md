@@ -2,7 +2,7 @@
 ✦ Digital Designer \
 ✦ Creative
 
-> Full Stack Developer with over a decade of experience bridging design and code, comfortable moving across different tech stacks and adapting to what a project demands with a pragmatic vision. Trusted to own projects end-to-end, from early technical decisions through final delivery, with a strong focus on maintainability and user experience. Always curious and keen to explore new technologies, workflows, and best practices to deliver thoughtful digital solutions.
+> Senior Full Stack Developer with over a decade of experience bridging design and code, comfortable across different tech stacks, with a pragmatic and adaptable approach to meeting project needs. Proven ability to lead and deliver projects end-to-end, from early technical decisions to final delivery, with a strong focus on maintainability and user experience. Always curious and keen to explore new technologies, workflows, and best practices to deliver thoughtful digital solutions.
 >
 > When I’m not at work, I experiment with photography and mixed media, exploring personal reflections and life itself, often focusing on questions rather than answers. It’s been a privilege to share my work in group exhibitions across Argentina, Vietnam, the U.S., New Zealand, and Chile, and to see it featured in a few publications along the way.
 >
